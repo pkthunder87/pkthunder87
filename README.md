@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm an aspiring web developer.
 
 <!--
 **pkthunder87/pkthunder87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
